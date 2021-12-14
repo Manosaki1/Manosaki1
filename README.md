@@ -7,7 +7,7 @@
 
 - :seedling: Atualmente estou aprendendo sobre **Desenvolvimento Java**
 
-- :people_with_bunny_ears_partying: Estou procurando colaborar com a **Comunidade de Minecraft**
+- 🐬 Estou procurando colaborar com a **Comunidade de Minecraft**
 
 - :man_technologist: Todos os meus projetos estão disponíveis em [https://github.com/Manosaki1](https://github.com/manosaki1)
 
