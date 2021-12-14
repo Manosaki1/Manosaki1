@@ -1,11 +1,9 @@
-<h1 align="center">Hey there :wave:, I'm Mão no saco</h1>
-<h3 align="center">Tenho 14 anos, programo com Java, C e Python, e tenho interesse em começar a investir em criptomoedas.</h3>
+<h1 align="center">Salve piazada :wave:, I'm Mão no saco</h1>
+<h3 align="center">Tenho 14 anos, estou aprendendo Java e tenho interesse em começar a contribuir com a comunidade Minecraft.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elicodesbr&label=Profile%20views&color=0e75b6&style=flat" alt="manosaki1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manosaki1" alt="manosaki1" /></a> </p>
-
-- :telescope: Atualmente estou trabalhando na [OldFace Reality]
 
 - :seedling: Atualmente estou aprendendo sobre **Desenvolvimento Java**
 
@@ -13,11 +11,11 @@
 
 - :man_technologist: Todos os meus projetos estão disponíveis em [https://github.com/Manosaki1](https://github.com/manosaki1)
 
-- :page_facing_up: Conheça minhas experiências (Java, C, Python)
+- :page_facing_up: Conheça minhas experiências (Java)
 
 <h3 align="left">Meu canal do youtube</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UC5uFtA-jhF-SuzFHElNxV5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elicodes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5uFtA-jhF-SuzFHElNxV5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manosaki1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
