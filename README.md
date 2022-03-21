@@ -1,5 +1,5 @@
-<h1 align="center">Salve piazada :wave:, I'm Mão no saco</h1>
-<h3 align="center">Tenho 14 anos, estou aprendendo Java e tenho interesse em começar a contribuir com a comunidade Minecraft.</h3>
+<h1 align="center">Hello World :wave:, I'm Manosaki</h1>
+<h3 align="center">I´m 14 years old, now i´m learning about Java Programming and trying to make good codes 😗.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manosaki1&label=Profile%20views&color=0e75b6&style=flat" alt="manosaki1" /> </p>
 
