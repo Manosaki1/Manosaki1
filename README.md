@@ -7,7 +7,7 @@
 </br>
 :seedling: Atualmente estou aprendendo sobre **Desenvolvimento Web**
 
-🐬 Estou procurando sempre melhorar com os meus **conhecimentos**.
+🐬 Estou procurando sempre expandir os meus conhecimentos.
 
 :man_technologist: Todos os meus projetos estão disponíveis em [https://github.com/brosaki](https://github.com/brosaki)
 
