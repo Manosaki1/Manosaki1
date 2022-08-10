@@ -13,12 +13,12 @@
 
 :man_technologist: Todos os meus projetos estão disponíveis em [https://github.com/brosaki](https://github.com/brosaki)
 
+<br></br>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brosaki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="brosaki"/>
 </p>
 
-<br></br>
-<br></br>
 <br></br>
 <br></br>
 
