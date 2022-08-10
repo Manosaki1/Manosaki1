@@ -30,10 +30,10 @@
   <li>C++</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manosaki1&show_icons=true&locale=en&layout=compact" alt="brosaki" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brosaki&show_icons=true&locale=en&layout=compact" alt="brosaki" /></p>
 <br></br>
 <br></br>
 <br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manosaki1&show_icons=true&locale=en" alt="brosaki" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brosaki&show_icons=true&locale=en" alt="brosaki" /></p>
 
