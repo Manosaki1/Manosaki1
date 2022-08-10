@@ -1,5 +1,5 @@
 <h1 align="center">Hello World :wave:, I'm Manosaki</h1>
-<h3 align="center">I´m 14 years old, now i´m learning about *Web Development* and working hard to do good codes 😗.</h3>
+<h3 align="center" style="color: white">I´m 14 years old, now i´m learning about Web Development and working hard to do good codes 😗.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manosaki1&label=Profile%20views&color=0e75b6&style=flat" alt="brosaki" /> </p>
 
