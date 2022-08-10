@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manosaki1&label=Profile%20views&color=0e75b6&style=flat" alt="brosaki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brosaki" alt="brosaki" /></a> </p>
-
 </br>
-
 :seedling: Atualmente estou aprendendo sobre **Desenvolvimento Web**
 
 🐬 Estou procurando sempre melhorar com os meus **conhecimentos**.
@@ -19,6 +17,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brosaki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="brosaki"/>
 </p>
 
+<br></br>
 <br></br>
 <br></br>
 
