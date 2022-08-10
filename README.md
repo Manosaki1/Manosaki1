@@ -19,8 +19,6 @@
 <br></br>
 <br></br>
 
-:page_facing_up: Conheça minhas experiências
-
 <h3 align="left">Languages and Tools:</h3>
 
 <ul>
@@ -33,6 +31,6 @@
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manosaki1&show_icons=true&locale=en&layout=compact" alt="brosaki" /></p>
-
+<br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manosaki1&show_icons=true&locale=en" alt="brosaki" /></p>
 
