@@ -11,12 +11,6 @@
 
 :man_technologist: Todos os meus projetos estão disponíveis em [https://github.com/brosaki](https://github.com/brosaki)
 
-
-
-<br></br>
-<br></br>
-<br></br>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <ul>
