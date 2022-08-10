@@ -1,21 +1,20 @@
 <h1 align="center">Hello World :wave:, I'm Manosaki</h1>
-<h3 align="center">I´m 14 years old, now i´m learning about Java Programming and trying to make good codes 😗.</h3>
+<h3 align="center">I´m 14 years old, now i´m learning about HTML/CSS/JS and working hard to make good codes 😗.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manosaki1&label=Profile%20views&color=0e75b6&style=flat" alt="manosaki1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manosaki1&label=Profile%20views&color=0e75b6&style=flat" alt="brosaki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manosaki1" alt="manosaki1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brosaki" alt="brosaki" /></a> </p>
 
-- :seedling: Atualmente estou aprendendo sobre **Desenvolvimento Java**
+- :seedling: Atualmente estou aprendendo sobre **Desenvolvimento HTML/CSS/JS**
 
-- 🐬 Estou procurando colaborar com a **Comunidade de Minecraft**
+- 🐬 Estou procurando sempre melhorar com os meus **conhecimentos**.
 
-- :man_technologist: Todos os meus projetos estão disponíveis em [https://github.com/Manosaki1](https://github.com/manosaki1)
+- :man_technologist: Todos os meus projetos estão disponíveis em [https://github.com/brosaki](https://github.com/brosaki)
 
-- :page_facing_up: Conheça minhas experiências (Java)
+- :page_facing_up: Conheça minhas experiências
 
-<h3 align="left">Meu canal do youtube</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UC5uFtA-jhF-SuzFHElNxV5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manosaki1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5uFtA-jhF-SuzFHElNxV5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brosaki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
