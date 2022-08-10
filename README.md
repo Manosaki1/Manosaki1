@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manosaki1&label=Profile%20views&color=0e75b6&style=flat" alt="brosaki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brosaki" alt="brosaki" /></a> </p>
-<br>
+
+</br>
 
 - :seedling: Atualmente estou aprendendo sobre **Desenvolvimento Web**
 
